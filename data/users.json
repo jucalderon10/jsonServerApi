@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name" : "Valentina Calderon",
+        "username": "vcalderon",
+        "password": "vale123",
+        "startDate": "01-08-2022"
+    },
+    {
+        "id": 2,
+        "name" : "Juan Perez",
+        "username": "jperez",
+        "password": "juan123",
+        "startDate": "20-07-2022"
+    }
+]
