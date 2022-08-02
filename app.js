@@ -9,4 +9,4 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
 
-server.listen(port, () => console.log("Server running on port 3000"));
+server.listen(port, () => console.log("Server running on port 3000 uwu"));
